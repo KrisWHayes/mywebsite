@@ -1,4 +1,5 @@
-Create an HTML landing page
+#this is a text test of git functionality
+gitCreate an HTML landing page
 Utilize the advanced HTML elements
 
 You’ll need to do the following:
