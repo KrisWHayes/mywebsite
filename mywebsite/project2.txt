@@ -1,0 +1,28 @@
+Create an HTML landing page
+Utilize the advanced HTML elements
+
+You’ll need to do the following:
+
+1 .Design a header for your landing page.
+...an image 
+...text: what they can find on the site.
+
+Create an introduction to your site
+...details about the purpose and mission of your site.
+...some information about yourself 
+...why you’ve created it 
+
+3.Design an About Me 
+...more detailed information about yourself 
+...why you created this website. 
+...links to other websites  (such as LinkedIn).
+
+4.Write out at least two paragraphs of text explaining what each section of your site contains
+
+5.Write a blog post about your journey to become a web developer! 
+6.A call-to-action button that encourages visitors to sign up for something (edited)
+[3:11 PM]
+...
+A header and footer with standard elements such as navigation, branding, and search functionality
+Content area with text and images that explain what you do and how you do it
+A call-to-action button that encourages visitors to sign up for something (like a request for information where they submit a question and their contact information. (edited)
